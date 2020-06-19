@@ -13,9 +13,15 @@ The bank wants to automate the loss estimation based on customer detail provided
 
 
 **Ac_No** - The account of customer used as identifier
+
 **Age** - Age of borrower (16-70)
+
 **Years of Experience** - Working experience (0-53)
+
 **Number of Cars** - Possessed cars (1, 2, 3, 4)
+
 **Gender** - Male/Female
+
 **Married** - Married/Single
+
 **Loss in Thousands** - Target variable
